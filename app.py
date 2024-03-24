@@ -28,7 +28,7 @@ class App:
             self.generate()
     
     def Init_Streamlit_Page(self):
-        st.title('Streamlit Application for Machine Learning Classification of Breast Cancer Wisconsin Dataset')
+        st.title('Streamlit App for Machine Learning Classification of Breast Cancer Wisconsin Dataset')
 
         st.write("""
         # How the application works:
