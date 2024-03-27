@@ -1,5 +1,5 @@
 # Interactive Web App with Streamlit and Scikit-learn
-Explore different datasets and classifier. Streamlit lets you create apps for your machine learning projects with simple Python scripts.
+Streamlit App for Machine Learning Classification of Breast Cancer Wisconsin Dataset. Streamlit lets you create apps for your machine learning projects with simple Python scripts.
 
 ## Installation
 You need these libraries:
